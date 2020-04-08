@@ -1,0 +1,15 @@
+..\hex\event_groups.o: ..\library\FreeRTOS\event_groups.c
+..\hex\event_groups.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\FreeRTOS.h
+..\hex\event_groups.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\hex\event_groups.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\FreeRTOSConfig.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\projdefs.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\portable.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\deprecated_definitions.h
+..\hex\event_groups.o: ..\library\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\mpu_wrappers.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\task.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\list.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\timers.h
+..\hex\event_groups.o: ..\library\FreeRTOS\include\event_groups.h

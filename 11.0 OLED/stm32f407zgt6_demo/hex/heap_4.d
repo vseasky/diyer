@@ -1,0 +1,13 @@
+..\hex\heap_4.o: ..\library\FreeRTOS\portable\MemMang\heap_4.c
+..\hex\heap_4.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\hex\heap_4.o: ..\library\FreeRTOS\include\FreeRTOS.h
+..\hex\heap_4.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\hex\heap_4.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\hex\heap_4.o: ..\library\FreeRTOS\include\FreeRTOSConfig.h
+..\hex\heap_4.o: ..\library\FreeRTOS\include\projdefs.h
+..\hex\heap_4.o: ..\library\FreeRTOS\include\portable.h
+..\hex\heap_4.o: ..\library\FreeRTOS\include\deprecated_definitions.h
+..\hex\heap_4.o: ..\library\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+..\hex\heap_4.o: ..\library\FreeRTOS\include\mpu_wrappers.h
+..\hex\heap_4.o: ..\library\FreeRTOS\include\task.h
+..\hex\heap_4.o: ..\library\FreeRTOS\include\list.h

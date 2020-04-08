@@ -1,0 +1,16 @@
+..\hex\tasks.o: ..\library\FreeRTOS\tasks.c
+..\hex\tasks.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\hex\tasks.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\FreeRTOS.h
+..\hex\tasks.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\hex\tasks.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\FreeRTOSConfig.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\projdefs.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\portable.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\deprecated_definitions.h
+..\hex\tasks.o: ..\library\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\mpu_wrappers.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\task.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\list.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\timers.h
+..\hex\tasks.o: ..\library\FreeRTOS\include\stack_macros.h

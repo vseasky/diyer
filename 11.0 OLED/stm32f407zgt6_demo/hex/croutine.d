@@ -1,0 +1,14 @@
+..\hex\croutine.o: ..\library\FreeRTOS\croutine.c
+..\hex\croutine.o: ..\library\FreeRTOS\include\FreeRTOS.h
+..\hex\croutine.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\hex\croutine.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\FreeRTOSConfig.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\projdefs.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\portable.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\deprecated_definitions.h
+..\hex\croutine.o: ..\library\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\mpu_wrappers.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\task.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\list.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\croutine.h
+..\hex\croutine.o: ..\library\FreeRTOS\include\list.h

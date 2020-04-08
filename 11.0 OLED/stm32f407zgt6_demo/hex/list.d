@@ -1,0 +1,12 @@
+..\hex\list.o: ..\library\FreeRTOS\list.c
+..\hex\list.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\hex\list.o: ..\library\FreeRTOS\include\FreeRTOS.h
+..\hex\list.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\hex\list.o: D:\Software_Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\hex\list.o: ..\library\FreeRTOS\include\FreeRTOSConfig.h
+..\hex\list.o: ..\library\FreeRTOS\include\projdefs.h
+..\hex\list.o: ..\library\FreeRTOS\include\portable.h
+..\hex\list.o: ..\library\FreeRTOS\include\deprecated_definitions.h
+..\hex\list.o: ..\library\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+..\hex\list.o: ..\library\FreeRTOS\include\mpu_wrappers.h
+..\hex\list.o: ..\library\FreeRTOS\include\list.h
