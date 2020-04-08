@@ -7,7 +7,7 @@
 
 此OLED完美兼容大疆OLED，可以直接接在RoboMaster开发板上使用
 
-附上使用视频：
+附上使用视频：[https://b23.tv/BV1mV411f7mR](https://b23.tv/BV1mV411f7mR "bilibili_OLED效果演示")
 
 此产品仅限于大家自己DIY使用，严谨直接拿去商用
 
