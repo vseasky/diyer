@@ -71,10 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NSDSVGTO
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for base\Design Rule Check - PCB1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

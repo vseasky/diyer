@@ -1,3 +1,7 @@
+**@版权所有->SEASKY**
+
+**LICENSE:** **MIT License**
+
 开源一款OLED
 
 <img src="./image/OLED.JPG" width="800"  />
