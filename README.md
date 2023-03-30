@@ -1,7 +1,3 @@
-**@版权所有->刘威**
-
-**LICENSE:** **MIT License**
-
 **下载说明：**
 	因为有人反映github下载速度过慢，因此如果您有下载网速过慢的问题可以尝试使用码云[``https://gitee.com/``](https://gitee.com/)clone仓库后下载，码云下载github仓库的具体方法大家自行了解，很简单,同时由于仓库可能会更新软件，建议大家在github关注。
 
